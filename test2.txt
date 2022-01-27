@@ -1,2 +1,2 @@
 test2
-edit by member2
+member1 changed this line 
